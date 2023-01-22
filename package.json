@@ -1,0 +1,24 @@
+{
+  "name": "markov-chain",
+  "version": "1.0.0",
+  "description": "Implementation of Markov chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server ./ -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelFernandez008/markov-chain.git"
+  },
+  "keywords": [],
+  "author": "Miguel Fernández",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelFernandez008/markov-chain/issues"
+  },
+  "homepage": "https://github.com/MiguelFernandez008/markov-chain#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
